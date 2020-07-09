@@ -1,0 +1,10 @@
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\bin\Debug\LoginUI-Animations.exe.config
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\bin\Debug\LoginUI-Animations.exe
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\bin\Debug\LoginUI-Animations.pdb
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI_Animations.Form1.resources
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI_Animations.Properties.Resources.resources
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI-Animations.csproj.GenerateResource.cache
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI-Animations.csproj.CoreCompileInputs.cache
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI-Animations.exe
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI-Animations.pdb
+C:\Users\Marshall\source\repos\LoginUI-Animations\LoginUI-Animations\obj\Debug\LoginUI_Animations.Form2.resources
